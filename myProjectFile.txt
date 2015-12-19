@@ -1,1 +1,2 @@
 This is one of the files in my git folder
+I am adding a second line to this file. Lets see if git picks this up
